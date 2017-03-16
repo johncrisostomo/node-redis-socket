@@ -1,0 +1,12 @@
+{
+  "name": "fourth_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "John Crisostomo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.14.0",
+    "redis": "2.6.2"
+  }
+}
